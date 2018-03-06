@@ -1,4 +1,5 @@
 <?php
+// Version: 1.0
 // Get category(label) data from main url
 // Your blog address, example:
 // https://example.blogspot.com/
