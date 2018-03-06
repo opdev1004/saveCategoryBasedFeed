@@ -7,7 +7,7 @@ Main purpose of this project is saving json data by category in the server to us
 ## Feature:
 This script works for more than 150 posts feed. It labels the file name by 0000 index numbering. Which mean 0001 will be first 150 posts data and 0002 will be 151~300 posts feed data. This script generates a directory itself to store json files. Which means you don't have to worry about creating a directory for json files. This script supports other languages too.
 
-## Requirement:
+## Requirements:
 1. Web server: There's nothing free! At least this script is free.
 2. PHP in Web server: Only testing and debugging in 7.1xx therefore better go with the same version however it wouldn't really make a problem.
 
