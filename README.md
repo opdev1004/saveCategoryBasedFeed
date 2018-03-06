@@ -12,8 +12,9 @@ This script works for more than 150 posts feed. It labels the file name by 0000 
 2. PHP in Web server: Only testing and debugging in 7.1xx therefore better go with the same version however it wouldn't really make a problem with other versions.
 
 ## Setting up:
-1. Upload savecbf.php to web server.
-2. Use task scheduler(eg. crontab) to run in hourly or daily.
+1. Change blog address in savecbf.php file.
+2. Upload savecbf.php to web server.
+3. Use task scheduler(eg. crontab in linux) to run the script hourly or daily.
 
 ## Problems & Solve:
 1. Why not using database?:
