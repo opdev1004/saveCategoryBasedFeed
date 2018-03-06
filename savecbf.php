@@ -3,7 +3,7 @@
 // Your blog address, example:
 // https://example.blogspot.com/
 // then $blogAddr = example;
-$blogAddr = 'treezi';
+$blogAddr = 'example';
 $dirPath = './' . $blogAddr . 'RssJson';
 // if there is no directory for json files then create one, otherwise just skip the creating directory.
 if (!file_exists($dirPath)) {
