@@ -9,7 +9,7 @@ This script works for more than 150 posts feed. It labels the file name by 0000 
 
 ## Requirements:
 1. Web server: There's nothing free! At least this script is free.
-2. PHP in Web server: Only testing and debugging in 7.1xx therefore better go with the same version however it wouldn't really make a problem.
+2. PHP in Web server: Only testing and debugging in 7.1xx therefore better go with the same version however it wouldn't really make a problem with other versions.
 
 ## Setting up:
 1. Upload savecbf.php to web server.
