@@ -9,7 +9,7 @@ This script works for more than 150 posts feed. It labels the file name by 0000 
 
 ## Requirements:
 1. Web server: There's nothing free! At least this script is free.
-2. PHP in Web server: Only testing and debugging in 7.1xx therefore better go with the same version however it wouldn't really make a problem with other versions.
+2. PHP in Web server: Only testing and debugging in 7.1xx therefore it is better to be the same version however it wouldn't really make a problem with other versions.
 
 ## Setting up:
 1. Change blog address in savecbf.php file.
@@ -18,9 +18,9 @@ This script works for more than 150 posts feed. It labels the file name by 0000 
 
 ## Problems & Solve:
 1. Why not using database?:
-  * Duh.... files are quicker, database is slower. Json files are good enough for blog data.
+  * files are quicker, database is slower. Json files are good enough for blog data.
 2. The name of json file is ugly.. why does it have to use urlencode?
-  * To support other languages in any OS. Well i haven't done testing for linux yet but it should be working on linux because i have used similar script on debian server and it only required small change that i do not remember.
+  * To support other languages in any OS. I haven't done testing for linux yet but it should be working on linux because i have used similar script on debian server and it only required small change that i do not remember.
 3. Why PHP? PHP is so bad..
   * Most of opensource CMSs that i've seen are developed with PHP and if you have web server there is bigger chance you might use cms based on php for website and blog(blogger) for personal use. This means you can build same script with other language.
 
