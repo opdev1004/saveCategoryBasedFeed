@@ -18,7 +18,7 @@ This script works for more than 150 posts feed. It labels the file name by 0000 
 
 ## Problems & Solve:
 1. Why not using database?:
-  * files are quicker, database is slower. Json files are good enough for blog data.
+  * Files are quicker, database is slower. Json files are good enough for blog data.
 2. The name of json file is ugly.. why does it have to use urlencode?
   * To support other languages in any OS. I haven't done testing for linux yet but it should be working on linux because i have used similar script on debian server and it only required small change that i do not remember.
 3. Why PHP? PHP is so bad..
