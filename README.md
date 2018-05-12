@@ -31,5 +31,5 @@ MIT, Simply just use it. I have built it for blogger widgets(gadgets).
 * Name: Chanil Park
 * VUW Computer Science student
 * E-mail: treezi1004@gmail.com
-* Blog: https://victorcpark.blogspot.com/
+* Blog: https://www.falsesage.com/
 
