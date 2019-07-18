@@ -28,8 +28,7 @@ This script works for more than 150 posts feed. It labels the file name by 4 dig
 MIT, Simply just use it. I have built it for blogger widgets(gadgets).
 
 ## Author:
-* Name: Chanil Park
-* VUW Computer Science student
-* E-mail: treezi1004@gmail.com
-* Blog: https://www.falsesage.com/
+* Name: Victor Chanil Park
+* E-mail: opdev1004@gmail.com
+* Blog: https://www.opdev.xyz/
 
