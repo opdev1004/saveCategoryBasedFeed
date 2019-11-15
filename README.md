@@ -20,7 +20,7 @@ This script works for more than 150 posts feed. It labels the file name by 4 dig
 1. Why are we using files instead of database?:
   * Files are quicker, database is slower. Json files are good enough for blog data.
 2. The name of json file is ugly.. why does it have to use urlencode?
-  * To support other languages. I haven't done testing for linux yet but it should be working on linux. Because i have used similar script on debian server and it only required small changes.
+  * To support other languages.
 3. Why PHP? PHP is so bad..
   * You can build same script with other language.
 
