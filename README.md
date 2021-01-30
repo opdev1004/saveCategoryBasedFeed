@@ -24,8 +24,6 @@ This script works for more than 150 posts feed. It labels the file name by 4 dig
   * Files are quicker, database is slower. Json files are good enough for blog data.
 2. The name of json file is ugly.. why does it have to use urlencode?
   * To support other languages.
-3. Why PHP? PHP is so bad..
-  * You can build same script with other language.
 
 ## License:
 MIT, Simply just use it. I have built it for blogger widgets(gadgets).
